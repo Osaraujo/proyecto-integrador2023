@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <nav class="main-nav">
+            <ul class="main-nav__list">
+                <li class="main-nav__item">
+                    <a href="#/inicio" class="main-nav__link">Inicio</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="#/alta" class="main-nav__link">Alta</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="#/contacto" class="main-nav__link">Contacto</a>
+                </li>
+                <li class="main-nav__item">
+                    <a href="#/nosotros" class="main-nav__link">Nosotros</a>
+                </li>
+                <div class="btn-cart" title="carrito"><button class="btn-cart-toggle">🛒</button></div>
+            </ul>
+        </nav>
+    </header>
+    <h1>JUGUETERIA COSMICA</h1>  
+    <section class="cart-container">
+        <div class="icon-cart-close_box"><span class="icon-cart-close"></span></div>
+        <h3>Carrito de compras</h3>
+        <div class="cart_products">
+            <table>
+                <thead>
+                    <tr>
+                        <th colspan="2">Compras</th>
+                        <th>Precio</th>                    
+                        <th>Cantidad</th>
+                        <th>Subtotal</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody class="products-container"></tbody>          
+                <tfoot>
+                    <tr>
+                        <td colspan="4">TOTAL</td>
+                        <td class="product__cart-total"></td>
+                        <td></td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+        <div class="btns-container">
+            <button>Borrar</button>
+            <button>Comprar</button>
+        </div>        
+    </section>
+
+
+    <main></main>
+
+
+    <footer class="main-footer">
+        <div class="column about">
+            <p>Comunicate con nosotros y seguinos en nuestras redes sociales!</p>
+            <div class="socialMedia">
+                <i><a href="https://web.whatsapp.com"> <span><img src="img/logoWhatsapp.png" alt="WhatApps"></span></a></i>
+                <i><a href="https://www.instagram.com"> <span><img src="img/logoInstagram.png" alt="Instagram"></span></a></i>
+                <i><a href="https://www.facebook.com"><span><img src="img/logoFacebook.png" alt="Facebook"></span></a></i>
+            </div>
+        </div>
+        <div class="footer-menu">                                                   
+            <a href="#/home" title="inicio">INICIO</a>
+            <a href="#/create" title="alta">ALTA</a>
+            <a href="#/contact"  title="contacto">CONTACTO</a>
+            <a href="#/about-us" title="nosotros">NOSOTROS</a>
+        </div>
+    </footer>  
+    <script src="js/modules/btn-cart-toggle.js"></script> 
+    <script src="js/modules/productsCart.js"></script>
+    <script src="js/modules/inicio.js"></script>
+    <script src="js/modules/nosotros.js"></script>
+    <script src="js/modules/contacto.js"></script>
+    <script src="js/modules/alta.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/vendor/handlebars/handlebars.min-v4.7.7.js"></script>
+</body>
+</html>

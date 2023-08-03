@@ -1,0 +1,142 @@
+[
+    {
+        "mainPhoto":"joystick-switch.jpg",
+        "name": "Joystick Nintendo Switch",
+        "price": "15000",
+		"shortDescription": "Joystick de Nintendo",
+        "longDescription": "Control preciso - Mayor comodidad y realismo - Activá el Bluetooth"
+    },
+    {
+        "mainPhoto": "joystick-ps5.jpg",
+        "name": "Joystick Dualsense Ps5",
+        "price": "32000",
+		"shortDescription": "Control ps5",
+        "lomgDescription": "Control preciso - Este mando combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. -Bluetooth."
+    },
+    {
+        "mainPhoto": "joystick-xbox-one.jpg",
+        "name": "Joystick Xbox Series X",
+        "price": "29000",
+		"shortDescription": "Joystick para Xbox ONE",
+        "longDescription": "Microsoft- Gamepad- Formato de Uso: Digital- Compatible: XBOX ONE, PC Windows 10, Tablets, Celulares"
+    },
+    {
+        "mainPhoto": "oculus.jpg",
+        "name": "Oculus Quest 2 De 128gb",
+        "price": "250000",
+		"shortDescription": "Lentes de realidad virtual",
+        "longDescription": "El Meta Oculus Quest 2 de 128 GB Advanced All In One - Version 2. Es la versión mas avanzada de Oculus hasta el momento. No se requiere PC ni consola."
+    },
+    {
+        "mainPhoto": "monopoly.jpg",
+        "name": "Juego Monopoly Clasico",
+        "price": "12500",
+		"shortDescription": "Juego de mesa",
+        "longDescription": "Juego de mesa clásico familiar. El emocionante juego de nogaciar propiedades. Recomendado para jugar en familia. Para mayores de 8 años. De 2 a 6 jugadores."
+    },
+    {
+        "mainPhoto": "bayblade.jpg",
+        "name": "Trompo Beyblade Burst",
+        "price": "5500",
+		"shortDescription": "Trompo para jugar",
+        "longDescription": "MODELOS EN STOCK - B 73 Good Valkerye - B-86 Legend Spriggan - B-100 Spriggan Requiem"
+    },
+    {
+        "mainPhoto": "uno.jpg",
+        "name": "Juego de cartas Uno Ruibal",
+        "price": "3000",
+		"shortDescription": "Juego de cartas",
+        "longDescription": "Disfrutá de tardes a pura risa y venganza despiadada entre amigos y amigas. Tendrás que quedarte sin cartas antes que los demás y cuando solo tengas una ¡no te olvides de decir UNO!"
+    },
+    {
+        "mainPhoto": "hdp.jpg",
+        "name": "H.D.P.",
+        "price": "7800",
+		"shortDescription": "Juego de cartas",
+        "longDescription": "El juego ideal para tu niño interior. (si tu niño interior es un HDP). Respondé la pregunta de la carta negra con una de tus cartas blancas."
+    },
+    {
+        "mainPhoto": "funko-messi.jpg",
+        "name": "Funko Messi",
+        "price": "5200",
+		"shortDescription": "Muñeco funko",
+        "longDescription": "Muñeco de coleccion compatible con linea funko. Los productos son genericos importados de gran calidad"
+    },
+    {
+        "mainPhoto": "funko-spiderman.jpg",
+        "name": "Funko Spiderman",
+        "price": "3000",
+		"shortDescription": "Muñeco funko",
+        "longDescription": "Muñeco de coleccion compatible con linea funko. Los productos son genericos importados de gran calidad"
+    },
+    {
+        "mainPhoto": "funko-deku.jpg",
+        "name": "Funko Deku BNHA",
+        "price": "4500",
+		"shortDescription": "Muñeco funko",
+        "longDescription": "Muñeco de coleccion compatible con linea funko. Los productos son genericos importados de gran calidad"
+    },
+    {
+        "mainPhoto": "funko-hawks.jpg",
+        "name": "Funko Hawks BNHA",
+        "price": "9750",
+		"shortDescription": "Muñeco funko",
+        "longDescription": "Muñeco de coleccion compatible con linea funko. Los productos son genericos importados de gran calidad"
+    },
+    {
+        "mainPhoto": "funko-edward-elric-fma.jpg",
+        "name": "Funko Edward Elric FMA",
+        "price": "9800",
+		"shortDescription": "Muñeco funko",
+        "longDescription": "Muñeco de coleccion compatible con linea funko. Los productos son genericos importados de gran calidad"
+    },
+    {
+        "mainPhoto": "funko-alphonse-elric-fma.jpg",
+        "name": "Funko Alphonse Elric FMA",
+        "price": "9600",
+		"shortDescription": "Muñeco funko",
+        "longDescription": "Muñeco de coleccion compatible con linea funko. Los productos son genericos importados de gran calidad"
+    },
+    {
+        "mainPhoto": "funko-naruto.jpg",
+        "name": "Funko Naruto",
+        "price": "12250",
+		"shortDescription": "Muñeco funko",
+        "longDescription": "Muñeco de coleccion compatible con linea funko. Los productos son genericos importados de gran calidad"
+    },
+    {
+        "mainPhoto": "funko-sasuke.jpg",
+        "name": "Funko Sasuke",
+        "price": "11650",
+		"shortDescription": "Muñeco funko",
+        "longDescription": "Muñeco de coleccion compatible con linea funko. Los productos son genericos importados de gran calidad"
+    },
+    {
+        "mainPhoto": "funko-shikamaru.jpg",
+        "name": "Funko Shikamaru",
+        "price": "7500",
+		"shortDescription": "Muñeco funko",
+        "longDescription": "Muñeco de coleccion compatible con linea funko. Los productos son genericos importados de gran calidad"
+    },
+    {
+        "mainPhoto": "funko-pikachu.jpg",
+        "name": "Funko Pikachu",
+        "price": "12700",
+		"shortDescription": "Muñeco funko",
+        "longDescription": "Muñeco de coleccion compatible con linea funko. Los productos son genericos importados de gran calidad"
+    },
+    {
+        "mainPhoto": "peluche-stitch.jpg",
+        "name": "Peluche Stitch",
+        "price": "4500",
+		"shortDescription": "Muñeco funko",
+        "longDescription": "Peluche Stitch mediano. Aprox 20 cm de alto"
+    },
+    {
+        "mainPhoto": "peluche-yoshi.jpg",
+        "name": "Peluche Yoshi",
+        "price": "3000",
+		"shortDescription": "Muñeco funko",
+        "longDescription": "Peluche Yoshi mediano. Aprox 20 cm de alto"
+    }
+]
